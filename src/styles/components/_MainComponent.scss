@@ -1,0 +1,25 @@
+.workspace {
+  background-color: rgba(204, 233, 237, .4);
+  padding: 0 .5rem;
+  margin-top: 15rem;
+  height: 40rem;
+  border-radius: 1rem;
+}
+
+.progress-bar {
+  width: 100%;
+  border-radius: 9999px;
+  position: relative;
+  margin: 1rem 0;
+  height: 12px;
+  background: #c6c6c6
+}
+
+.progress-bar>div {
+  border-radius: 9999px;
+  position: absolute;
+  height: 100%;
+  background-color: rgb(179, 70, 68);
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease
+}

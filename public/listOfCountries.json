@@ -1,0 +1,117 @@
+{
+  "countries": [{
+      "description": "Australia"
+    },
+    {
+      "description": "Belgium"
+    },
+    {
+      "description": "Bulgaria"
+    },
+    {
+      "description": "Great Britain"
+    },
+    {
+      "description": "Vietnam"
+    },
+    {
+      "description": "Germany"
+    },
+    {
+      "description": "Greece"
+    },
+    {
+      "description": "Denmark"
+    },
+    {
+      "description": "India"
+    },
+    {
+      "description": "Ireland"
+    },
+    {
+      "description": "Iceland"
+    },
+    {
+      "description": "Spain"
+    },
+    {
+      "description": "Italy"
+    },
+    {
+      "description": "Canada"
+    },
+    {
+      "description": "Cyprus"
+    },
+    {
+      "description": "China"
+    },
+    {
+      "description": "Latvia"
+    },
+    {
+      "description": "Lithuania"
+    },
+    {
+      "description": "Malta"
+    },
+    {
+      "description": "Netherlands"
+    },
+    {
+      "description": "Norway"
+    },
+    {
+      "description": "Poland"
+    },
+    {
+      "description": "Portugal"
+    },
+    {
+      "description": "Romania"
+    },
+    {
+      "description": "Singapore"
+    },
+    {
+      "description": "Slovakia"
+    },
+    {
+      "description": "Slovenia"
+    },
+    {
+      "description": "USA"
+    },
+    {
+      "description": "Taiwan"
+    },
+    {
+      "description": "Thailand"
+    },
+    {
+      "description": "Finland"
+    },
+    {
+      "description": "France"
+    },
+    {
+      "description": "Croatia"
+    },
+    {
+      "description": "Czech"
+    },
+    {
+      "description": "Switzerland"
+    },
+    {
+      "description": "Sweden"
+    },
+    {
+      "description": "Estonia"
+    },
+    {
+      "description": "Japan"
+    }
+  ]
+}
